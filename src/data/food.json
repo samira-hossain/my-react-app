@@ -1,0 +1,25 @@
+{
+  "foods": [
+    {
+      "title": "Butter Chicken",
+      "image": "https://img.taste.com.au/AbiWkcA0/taste/2016/11/easy-butter-chicken-74432-1.jpeg",
+      "description": "Butter chicken, also known as Murgh Makhani, is a beloved North Indian dish. It features tender marinated chicken cooked in a creamy tomato sauce enriched with butter and a blend of aromatic spices. This indulgent and flavorful dish is often served with naan or rice, offering a perfect balance of richness and comfort in every bite.",
+      "rating": 3,
+      "haveTried": true
+    },
+    {
+      "title": "Ramen",
+      "image": "https://www.justonecookbook.com/wp-content/uploads/2023/04/Spicy-Shoyu-Ramen-8055-I.jpg",
+      "description": "Ramen is a Japanese noodle dish renowned for its savory broth and springy wheat noodles. This iconic dish typically includes ingredients such as sliced pork, soft-boiled eggs, scallions, and seaweed. The broth can range from soy sauce-based (shoyu) to miso, tonkotsu (pork bone), or shio (salt-based), each offering a unique and satisfying flavor profile. Ramen is a comfort food favorite, known for its soul-warming appeal and diverse regional variations.",
+      "rating": 5,
+      "haveTried": true
+    },
+    {
+      "title": "Pho",
+      "image": "https://img.taste.com.au/XG13QkMs/taste/2016/11/beef-and-noodle-soup-pho-bo-33067-1.jpeg",
+      "description": "Pho is a Vietnamese noodle soup known for its fragrant broth, rice noodles, and tender meat slices, usually beef or chicken. Garnished with fresh herbs and condiments, it offers a harmonious and comforting taste experience, symbolizing Vietnamese cuisine's depth of flavor and popularity worldwide.",
+      "rating": 2,
+      "haveTried": true
+    }
+  ]
+}

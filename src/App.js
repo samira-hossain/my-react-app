@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import MovieList from './components/List';
+import List from './components/List';
 
-function App() {
+export function App() {
   return (
     <div className="App">
-      <MovieList />
+      <h1> Samira's food list </h1>
+      <List />
     </div>
   );
 }
